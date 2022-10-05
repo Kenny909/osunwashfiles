@@ -1,0 +1,31 @@
+    #map{
+      height: 82vh
+    }
+
+#coordinate{
+
+  position: absolute;
+  left: 40%;
+  background: palegreen;
+  z-index: 99999;
+  bottom: 0;
+  padding: 3px;
+}
+
+h1 {
+  color:royalblue ;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 5px;
+  text-align: center;
+  /*text-decoration: underline;*/
+  text-transform: uppercase;
+  font-family: Comic sans, Helvetica, serif;
+  /*font-style: italic;*/
+}
+
+body {
+  background-color: aliceblue;
+}
+
+  
